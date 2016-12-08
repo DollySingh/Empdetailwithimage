@@ -11,7 +11,7 @@
 #import "AppDelegate.h"
 
 @interface ViewController : UIViewController
-
+//aa
 @property (weak, nonatomic) IBOutlet UITextField *txtEno;
 @property (weak, nonatomic) IBOutlet UITextField *txtEname;
 @property (weak, nonatomic) IBOutlet UISegmentedControl *segMentControlForImageSelection;
